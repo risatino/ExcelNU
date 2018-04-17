@@ -1,3 +1,3 @@
-# ExcelNU
+#### Excel Tricks & Pivot Charts
 
-I included a Word Doc and ExcelSheet.
+See attached Word Doc and ExcelSheet.
